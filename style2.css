@@ -76,7 +76,6 @@ body{
 }
 #cardThree:hover{
     width: 53vw;
-    height: 20.5vh;
     cursor: pointer;
     transition: ease-in-out;
 }
@@ -88,7 +87,6 @@ body{
 }
 #cardOne:hover{
         width: 25vw;
-        height: 20.5vh;
         cursor: pointer;
         transition: ease-in-out;
 }
@@ -99,7 +97,6 @@ body{
 }
 #cardTwo:hover{
         width: 25vw;
-        height: 20.5vh;
         cursor: pointer;
         transition: ease-in-out;
 }
