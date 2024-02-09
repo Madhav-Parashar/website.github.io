@@ -75,9 +75,10 @@ body{
     display: inline-flex;
 }
 #cardThree:hover{
-    width: 51vw;
+    width: 53vw;
     height: 20.5vh;
     cursor: pointer;
+    transition: ease-in-out;
 }
 #cardOne{
     display: inline-flex;
@@ -86,9 +87,10 @@ body{
     height: 20vh;
 }
 #cardOne:hover{
-        width: 24vw;
+        width: 25vw;
         height: 20.5vh;
         cursor: pointer;
+        transition: ease-in-out;
 }
 #cardTwo{
     display: inline-flex;
@@ -96,9 +98,10 @@ body{
     height: 20vh;
 }
 #cardTwo:hover{
-        width: 24vw;
+        width: 25vw;
         height: 20.5vh;
         cursor: pointer;
+        transition: ease-in-out;
 }
 .cardheading{
     display: inline-flex;
