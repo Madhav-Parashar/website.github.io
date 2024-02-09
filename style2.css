@@ -74,19 +74,29 @@ body{
     height: 20vh;
     display: inline-flex;
 }
-
+#cardThree:hover{
+        width: 50.5vw;
+        height: 20.5vh;
+}
 #cardOne{
     display: inline-flex;
     margin-right: 1%;
     width: 23vw;
     height: 20vh;
 }
+#cardOne:hover{
+        width: 23.5vw;
+        height: 20.5vh;
+}
 #cardTwo{
     display: inline-flex;
     width: 23vw;
     height: 20vh;
 }
-
+#cardTwo:hover{
+        width: 23.5vw;
+        height: 20.5vh;
+}
 .cardheading{
     display: inline-flex;
     flex-direction: row;
